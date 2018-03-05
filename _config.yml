@@ -3,3 +3,9 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
+theme: jekyll-theme-merlot
+title: [ well no stuff here yet ]
+description: [ a page on da web here ]
+show_downloads: ["true"]
+google_analytics: [Your Google Analytics trk is 000]
+
